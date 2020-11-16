@@ -1,4 +1,4 @@
-# dome-pong
+## dome-pong
 
 another entry to the infinite collection of pong clones
 
